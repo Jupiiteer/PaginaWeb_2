@@ -1,0 +1,20 @@
+:root{
+    --primario: #9C27B0;
+    --primarioOscuro: #891190;
+    --secundario: #FFCE08;
+    --secundarioOscuro: rgb(233, 287, 2);
+    --blanco: #FFF;
+    --negro: #000;
+    --fuentePrincipal: font-family: 'Staatliches', cursive;
+}
+
+/* Globales */ 
+
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 16px;
+}
+
